@@ -14,5 +14,5 @@
 <b>./artisan migrate:data полный_путь_к_входному_файлу полный_путь_к_выходному_файлу</b>
     
 ## Пример команды
-./artisan migrate:data /home/sargis/random.csv /home/sargis/inv.csv
+<b>./artisan migrate:data /home/sargis/random.csv /home/sargis/inv.csv<b>
  
